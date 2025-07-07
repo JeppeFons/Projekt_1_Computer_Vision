@@ -22,5 +22,6 @@ Datasættet er specifikt opdelt i 262.144 træningsbilleder, 32.768 valideringsb
 Vigtigt: Du behøver ikke bruge hele datasættet. Bare brug den mængde data, der er realistisk i forhold til din hardwarekonfiguration.
 
 **Resultater og konklusioner**
+![resultater fra alle modeller: AE, VAE og CNN](src/visualization/results.png)
 
 **Eventuelle referencer eller links**
