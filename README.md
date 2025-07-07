@@ -24,4 +24,6 @@ Vigtigt: Du behøver ikke bruge hele datasættet. Bare brug den mængde data, de
 **Resultater og konklusioner**
 ![resultater fra alle modeller: AE, VAE og CNN](src/visualization/results.png)
 
+
+
 **Eventuelle referencer eller links**
