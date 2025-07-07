@@ -1,6 +1,6 @@
 
 **Projektbeskrivelse og formål**
-
+Formålet med projektet er at anvende computer vision-teknikker til automatisk klassificering af medicinske billeder af lymfeknuder, således at modellen kan skelne mellem godartede og ondartede celler. Hensigten med dette er at prøve og udvikle et beslutningsstøtteværktøj til diagnosticering af lymfeknudekræft.
 
 **Installation og opsætning (fx miljø, dependencies)**
 Tjek blandt andet requirements.txt
@@ -26,7 +26,3 @@ Vigtigt: Du behøver ikke bruge hele datasættet. Bare brug den mængde data, de
 
 
 ![resultater fra alle modeller: AE, VAE og CNN](src/visualization/results.png)
-
-
-
-**Eventuelle referencer eller links**
