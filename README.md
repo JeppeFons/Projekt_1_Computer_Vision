@@ -3,6 +3,7 @@
 
 
 **Installation og opsætning (fx miljø, dependencies)**
+Tjek blandt andet requirements.txt
 
 **Instruktioner til hvordan man kører koden eller notebooks**
 
